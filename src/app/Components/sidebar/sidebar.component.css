@@ -1,0 +1,44 @@
+#sidebar
+{
+    height: 100vh;
+    background-color: #242834;
+    position: sticky;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+#sidebar ul
+{
+    line-height: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+li
+{
+    list-style-type: none;
+    border-bottom: 2px solid #3A6AFD;
+    width: 100%;
+    transition: 0.1s ease-in;
+}
+
+li:hover 
+{
+    background-color: #3A6AFD;
+}
+
+li:hover a 
+{
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}

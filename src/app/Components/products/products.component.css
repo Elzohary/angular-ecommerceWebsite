@@ -1,0 +1,66 @@
+h1
+{
+    margin-bottom: 0;
+    font-size: 37px;
+}
+
+h4
+{
+    font-size: 25px;
+}
+
+h5
+{
+    font-size: 20px;
+}
+
+h6
+{
+    font-size: 16px;
+}
+
+.storeName
+{
+    display: flex;
+    align-items: center;
+}
+
+.storeLogo
+{
+    height: 40px;
+}
+
+.categoriesSection
+{
+    display: flex;
+    align-items: center;
+}
+
+.productCards
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:first baseline;
+}
+
+.clientName
+{
+    display: flex;
+    align-items: center;
+}
+
+.thanks
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+.card
+{
+    transition: 0.2s ease-in-out;
+}
+
