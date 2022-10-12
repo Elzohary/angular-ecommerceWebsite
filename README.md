@@ -1,10 +1,9 @@
-# Assignment
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
-
+THIS PROJECT IS NOT FINISHED YET! .. I AM STILL WORKING ON IT
 You can check it at: https://elzohary.github.io/angular-ecommerceWebsite/
 
-THIS PROJECT IS NOT FINISHED YET! .. I AM STILL WORKING ON IT
+
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
 
